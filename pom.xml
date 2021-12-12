@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.219.250.60:8081/repository/ebay-bts-releases/</url>
+	      <url>http://3.137.223.168:8081/repository/td_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.219.250.60:8081/repository/ebay-bts-snapshot/</url>
+	      <url>http://3.137.223.168:8081/repository/td_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
